@@ -1,2 +1,7 @@
-streamlit
-gpt4all
+gpt4all==0.2.7  # Replace this with the current version if newer
+streamlit  # Assuming you're using Streamlit
+numpy  # If you're using NumPy
+pandas  # If you're using Pandas
+requests  # If you're making API calls
+
+# Add any other dependencies your project requires here
